@@ -1,0 +1,2 @@
+- [English](https://en.zhgchg.li/posts/2981dc0fcd58/)
+- [中文](https://medium.com/zrealm-ios-dev/ios-nsattributedstring-%E6%8E%A2%E7%A9%B6%E4%BD%BF%E7%94%A8-nstextlist-%E6%88%96-nstexttab-%E5%AF%A6%E7%8F%BE%E5%88%97%E8%A1%A8%E7%B8%AE%E6%8E%92-2981dc0fcd58)
