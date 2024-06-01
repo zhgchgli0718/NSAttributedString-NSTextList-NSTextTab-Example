@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		681F5E882C06CCC60045914F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681F5E872C06CCC60045914F /* AppDelegate.swift */; };
 		681F5E8A2C06CCC60045914F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681F5E892C06CCC60045914F /* SceneDelegate.swift */; };
-		681F5E8C2C06CCC60045914F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681F5E8B2C06CCC60045914F /* ViewController.swift */; };
+		681F5E8C2C06CCC60045914F /* NSTextListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681F5E8B2C06CCC60045914F /* NSTextListViewController.swift */; };
 		681F5E8F2C06CCC60045914F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 681F5E8E2C06CCC60045914F /* Base */; };
 		681F5E912C06CCC70045914F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 681F5E902C06CCC70045914F /* Assets.xcassets */; };
 		681F5E942C06CCC70045914F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 681F5E932C06CCC70045914F /* Base */; };
+		68AB0B762C09AA3D00217709 /* NSTextTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68AB0B752C09AA3D00217709 /* NSTextTabViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		681F5E842C06CCC60045914F /* NSAttributedStringListIndent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NSAttributedStringListIndent.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		681F5E872C06CCC60045914F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		681F5E892C06CCC60045914F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		681F5E8B2C06CCC60045914F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		681F5E8B2C06CCC60045914F /* NSTextListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSTextListViewController.swift; sourceTree = "<group>"; };
 		681F5E8E2C06CCC60045914F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		681F5E902C06CCC70045914F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		681F5E932C06CCC70045914F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		681F5E952C06CCC70045914F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68AB0B752C09AA3D00217709 /* NSTextTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSTextTabViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +60,8 @@
 			children = (
 				681F5E872C06CCC60045914F /* AppDelegate.swift */,
 				681F5E892C06CCC60045914F /* SceneDelegate.swift */,
-				681F5E8B2C06CCC60045914F /* ViewController.swift */,
+				681F5E8B2C06CCC60045914F /* NSTextListViewController.swift */,
+				68AB0B752C09AA3D00217709 /* NSTextTabViewController.swift */,
 				681F5E8D2C06CCC60045914F /* Main.storyboard */,
 				681F5E902C06CCC70045914F /* Assets.xcassets */,
 				681F5E922C06CCC70045914F /* LaunchScreen.storyboard */,
@@ -138,7 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				681F5E8C2C06CCC60045914F /* ViewController.swift in Sources */,
+				68AB0B762C09AA3D00217709 /* NSTextTabViewController.swift in Sources */,
+				681F5E8C2C06CCC60045914F /* NSTextListViewController.swift in Sources */,
 				681F5E882C06CCC60045914F /* AppDelegate.swift in Sources */,
 				681F5E8A2C06CCC60045914F /* SceneDelegate.swift in Sources */,
 			);

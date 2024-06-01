@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NSAttributedStringListIndent
 //
-//  Created by 李仲澄 on 2024/5/29.
+//  Created by http://zhgchg.li on 2024/5/29.
 //
 
 import UIKit
